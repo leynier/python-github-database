@@ -1,5 +1,6 @@
 tasks:
   - init: make install
+    command: make config
 vscode:
   extensions:
     - ms-vscode-remote.remote-containers
